@@ -1,0 +1,10 @@
+sku_id,product_name,category,base_price
+AMZN-ELEC-01,Echo Dot 5th Gen,Electronics,49.99
+AMZN-ELEC-02,Kindle Paperwhite,Electronics,139.99
+AMZN-ELEC-03,Fire TV Stick 4K,Electronics,49.99
+AMZN-CLTH-01,Amazon Essentials Hoodie,Clothing,25.00
+AMZN-CLTH-02,Men's Fleece Pants,Clothing,21.50
+AMZN-CLTH-03,Women's Running Shorts,Clothing,18.00
+AMZN-CLTH-04,Packable Rain Jacket,Clothing,42.00
+AMZN-HOME-01,Memory Foam Pillow,Home & Kitchen,34.99
+AMZN-HOME-02,Digital Kitchen Scale,Home & Kitchen,19.99
