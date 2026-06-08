@@ -1,10 +1,101 @@
 sku_id,product_name,category,base_price
-AMZN-ELEC-01,Echo Dot 5th Gen,Electronics,49.99
-AMZN-ELEC-02,Kindle Paperwhite,Electronics,139.99
-AMZN-ELEC-03,Fire TV Stick 4K,Electronics,49.99
-AMZN-CLTH-01,Amazon Essentials Hoodie,Clothing,25.00
-AMZN-CLTH-02,Men's Fleece Pants,Clothing,21.50
-AMZN-CLTH-03,Women's Running Shorts,Clothing,18.00
-AMZN-CLTH-04,Packable Rain Jacket,Clothing,42.00
-AMZN-HOME-01,Memory Foam Pillow,Home & Kitchen,34.99
-AMZN-HOME-02,Digital Kitchen Scale,Home & Kitchen,19.99
+AMZN-ELEC-01,Amazon Electronics Product 1,Electronics,12.14
+AMZN-SMAR-02,Amazon Smart Home Product 2,Smart Home,14.29
+AMZN-COMP-03,Amazon Computers Product 3,Computers,16.44
+AMZN-AUDI-04,Amazon Audio Product 4,Audio,18.59
+AMZN-ACCE-05,Amazon Accessories Product 5,Accessories,20.74
+AMZN-ELEC-06,Amazon Electronics Product 6,Electronics,22.89
+AMZN-SMAR-07,Amazon Smart Home Product 7,Smart Home,25.04
+AMZN-COMP-08,Amazon Computers Product 8,Computers,27.19
+AMZN-AUDI-09,Amazon Audio Product 9,Audio,29.34
+AMZN-ACCE-10,Amazon Accessories Product 10,Accessories,31.49
+AMZN-ELEC-11,Amazon Electronics Product 11,Electronics,33.64
+AMZN-SMAR-12,Amazon Smart Home Product 12,Smart Home,35.79
+AMZN-COMP-13,Amazon Computers Product 13,Computers,37.94
+AMZN-AUDI-14,Amazon Audio Product 14,Audio,40.09
+AMZN-ACCE-15,Amazon Accessories Product 15,Accessories,42.24
+AMZN-ELEC-16,Amazon Electronics Product 16,Electronics,44.39
+AMZN-SMAR-17,Amazon Smart Home Product 17,Smart Home,46.54
+AMZN-COMP-18,Amazon Computers Product 18,Computers,48.69
+AMZN-AUDI-19,Amazon Audio Product 19,Audio,50.84
+AMZN-ACCE-20,Amazon Accessories Product 20,Accessories,52.99
+AMZN-ELEC-21,Amazon Electronics Product 21,Electronics,55.14
+AMZN-SMAR-22,Amazon Smart Home Product 22,Smart Home,57.29
+AMZN-COMP-23,Amazon Computers Product 23,Computers,59.44
+AMZN-AUDI-24,Amazon Audio Product 24,Audio,61.59
+AMZN-ACCE-25,Amazon Accessories Product 25,Accessories,63.74
+AMZN-ELEC-26,Amazon Electronics Product 26,Electronics,65.89
+AMZN-SMAR-27,Amazon Smart Home Product 27,Smart Home,68.04
+AMZN-COMP-28,Amazon Computers Product 28,Computers,70.19
+AMZN-AUDI-29,Amazon Audio Product 29,Audio,72.34
+AMZN-ACCE-30,Amazon Accessories Product 30,Accessories,74.49
+AMZN-ELEC-31,Amazon Electronics Product 31,Electronics,76.64
+AMZN-SMAR-32,Amazon Smart Home Product 32,Smart Home,78.79
+AMZN-COMP-33,Amazon Computers Product 33,Computers,80.94
+AMZN-AUDI-34,Amazon Audio Product 34,Audio,83.09
+AMZN-ACCE-35,Amazon Accessories Product 35,Accessories,85.24
+AMZN-ELEC-36,Amazon Electronics Product 36,Electronics,87.39
+AMZN-SMAR-37,Amazon Smart Home Product 37,Smart Home,89.54
+AMZN-COMP-38,Amazon Computers Product 38,Computers,91.69
+AMZN-AUDI-39,Amazon Audio Product 39,Audio,93.84
+AMZN-ACCE-40,Amazon Accessories Product 40,Accessories,95.99
+AMZN-ELEC-41,Amazon Electronics Product 41,Electronics,98.14
+AMZN-SMAR-42,Amazon Smart Home Product 42,Smart Home,100.29
+AMZN-COMP-43,Amazon Computers Product 43,Computers,102.44
+AMZN-AUDI-44,Amazon Audio Product 44,Audio,104.59
+AMZN-ACCE-45,Amazon Accessories Product 45,Accessories,106.74
+AMZN-ELEC-46,Amazon Electronics Product 46,Electronics,108.89
+AMZN-SMAR-47,Amazon Smart Home Product 47,Smart Home,111.04
+AMZN-COMP-48,Amazon Computers Product 48,Computers,113.19
+AMZN-AUDI-49,Amazon Audio Product 49,Audio,115.34
+AMZN-ACCE-50,Amazon Accessories Product 50,Accessories,117.49
+AMZN-ELEC-51,Amazon Electronics Product 51,Electronics,119.64
+AMZN-SMAR-52,Amazon Smart Home Product 52,Smart Home,121.79
+AMZN-COMP-53,Amazon Computers Product 53,Computers,123.94
+AMZN-AUDI-54,Amazon Audio Product 54,Audio,126.09
+AMZN-ACCE-55,Amazon Accessories Product 55,Accessories,128.24
+AMZN-ELEC-56,Amazon Electronics Product 56,Electronics,130.39
+AMZN-SMAR-57,Amazon Smart Home Product 57,Smart Home,132.54
+AMZN-COMP-58,Amazon Computers Product 58,Computers,134.69
+AMZN-AUDI-59,Amazon Audio Product 59,Audio,136.84
+AMZN-ACCE-60,Amazon Accessories Product 60,Accessories,138.99
+AMZN-ELEC-61,Amazon Electronics Product 61,Electronics,141.14
+AMZN-SMAR-62,Amazon Smart Home Product 62,Smart Home,143.29
+AMZN-COMP-63,Amazon Computers Product 63,Computers,145.44
+AMZN-AUDI-64,Amazon Audio Product 64,Audio,147.59
+AMZN-ACCE-65,Amazon Accessories Product 65,Accessories,149.74
+AMZN-ELEC-66,Amazon Electronics Product 66,Electronics,151.89
+AMZN-SMAR-67,Amazon Smart Home Product 67,Smart Home,154.04
+AMZN-COMP-68,Amazon Computers Product 68,Computers,156.19
+AMZN-AUDI-69,Amazon Audio Product 69,Audio,158.34
+AMZN-ACCE-70,Amazon Accessories Product 70,Accessories,160.49
+AMZN-ELEC-71,Amazon Electronics Product 71,Electronics,162.64
+AMZN-SMAR-72,Amazon Smart Home Product 72,Smart Home,164.79
+AMZN-COMP-73,Amazon Computers Product 73,Computers,166.94
+AMZN-AUDI-74,Amazon Audio Product 74,Audio,169.09
+AMZN-ACCE-75,Amazon Accessories Product 75,Accessories,171.24
+AMZN-ELEC-76,Amazon Electronics Product 76,Electronics,173.39
+AMZN-SMAR-77,Amazon Smart Home Product 77,Smart Home,175.54
+AMZN-COMP-78,Amazon Computers Product 78,Computers,177.69
+AMZN-AUDI-79,Amazon Audio Product 79,Audio,179.84
+AMZN-ACCE-80,Amazon Accessories Product 80,Accessories,181.99
+AMZN-ELEC-81,Amazon Electronics Product 81,Electronics,184.14
+AMZN-SMAR-82,Amazon Smart Home Product 82,Smart Home,186.29
+AMZN-COMP-83,Amazon Computers Product 83,Computers,188.44
+AMZN-AUDI-84,Amazon Audio Product 84,Audio,190.59
+AMZN-ACCE-85,Amazon Accessories Product 85,Accessories,192.74
+AMZN-ELEC-86,Amazon Electronics Product 86,Electronics,194.89
+AMZN-SMAR-87,Amazon Smart Home Product 87,Smart Home,197.04
+AMZN-COMP-88,Amazon Computers Product 88,Computers,199.19
+AMZN-AUDI-89,Amazon Audio Product 89,Audio,201.34
+AMZN-ACCE-90,Amazon Accessories Product 90,Accessories,203.49
+AMZN-ELEC-91,Amazon Electronics Product 91,Electronics,205.64
+AMZN-SMAR-92,Amazon Smart Home Product 92,Smart Home,207.79
+AMZN-COMP-93,Amazon Computers Product 93,Computers,209.94
+AMZN-AUDI-94,Amazon Audio Product 94,Audio,212.09
+AMZN-ACCE-95,Amazon Accessories Product 95,Accessories,214.24
+AMZN-ELEC-96,Amazon Electronics Product 96,Electronics,216.39
+AMZN-SMAR-97,Amazon Smart Home Product 97,Smart Home,218.54
+AMZN-COMP-98,Amazon Computers Product 98,Computers,220.69
+AMZN-AUDI-99,Amazon Audio Product 99,Audio,222.84
+AMZN-ACCE-100,Amazon Accessories Product 100,Accessories,224.99
